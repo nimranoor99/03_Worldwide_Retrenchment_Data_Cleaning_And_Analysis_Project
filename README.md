@@ -17,7 +17,7 @@ This repository presents a comprehensive analysis of worldwide retrenchment data
 ```
 **Data Cleaning**
 <br>
-The data_cleaning.md file outlines the SQL queries used to cleanse the raw retrenchment data. Key cleaning operations include:
+The 01_Data_Cleaning.md file outlines the SQL queries used to cleanse the raw retrenchment data. Key cleaning operations include:
 
 * **Data Validation:** Ensuring data integrity and consistency by checking for missing values, duplicates, and outliers.
 * **Data Transformation:** Converting data types, handling null values, and normalizing data for analysis.
@@ -26,7 +26,7 @@ The data_cleaning.md file outlines the SQL queries used to cleanse the raw retre
 
 **Exploratory Data Analysis**
 <br>
-The exploratory_data_analysis.md file showcases the exploratory analysis conducted on the cleaned data. The analysis explores:
+The 02_Exploratory_Data_Analysis.md file showcases the exploratory analysis conducted on the cleaned data. The analysis explores:
 
 * **Retrenchment Trends:** Identifying trends in retrenchment frequency, magnitude, and geographical distribution over time.
 * **Industry Analysis:** Examining retrenchment patterns across different companies, such as Google, Microsft. Comparing retrenchment rates and impacts in various regions, including North America, Europe, Asia, and others.
