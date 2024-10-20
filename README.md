@@ -11,7 +11,7 @@ This repository presents a comprehensive analysis of worldwide retrenchment data
 **Project Pre requisite:**
 <br>
 * **MYSQL Dwonload Link:** https://www.mysql.com/downloads/
-* **Download Dataset:**: Please download the Retrenchment_Data.xlsx file from this project.
+* **Download Dataset:**: Please download the Retrenchment.xlsx file from this project.
 ```Diff
 + **Note: For different data set you can use the Kaggle platform as well.**
 ```
